@@ -9,21 +9,31 @@
 
       NO
 
-## EXTRACTO 
+## 📄EXTRACTO 
 
 Mi nombre es Jeferson Ducuara soy una persona callada, son una persona social ,una buena amistad, una persona con habilidades de aprender de todo un poco, he trabajo un poco de todo tengo sueños y aspiraciones de aprender nuevas cosas para emplearla a futuro con mi estudios.he desempeñado en la cosas que he aprendido.soy alguien que intenta ayudar al que no tienen y soy una persona que cada día a día quiere aprender nuevas cosas para mí futuro.
 
-## EXPERIENCIA LABORAL 
+## 💼 EXPERIENCIA LABORAL 
 • Construcción de obra
 • cajero de restaurante 
 • Domiciliario
 •  atención al cliente 
 
-##  ESTUDIOS OBTENIDOS 
+## 🎓 EDUCACIÓN 
+### 🎓 técnico en sistemas
+servicio nacional de aprendizaje SENA - 2021-2022
+### 🎓 bachiller académico 
+ colegio I.E.T Nicolás Ramírez -2016-2022
 
-• técnico en sistemas 
+ 
+## 📫 CONTACTO 
+📍 Ubicación: Ibagué, Tolima, Colombia
+📧 Correo: jeferson.ducuara@cun.edu.co
+🔗 GitHub: github.com/jefersonducua
 
-## compañeros de trabajo 
+📱WhatsApp : 3219727053
+
+## 👥  compañeros de trabajo 
 
 
 |                |Hombres                       |   usuario hithub                     |
