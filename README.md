@@ -9,11 +9,11 @@
 
 ## 🌐 REDES SOCIALES DE TRABAJO
 
-      NO
+      "NO"
 
 ## 📄EXTRACTO 
 
-Mi nombre es Jeferson Ducuara soy una persona callada, son una persona social ,una buena amistad, una persona con habilidades de aprender de todo un poco, he trabajo un poco de todo tengo sueños y aspiraciones de aprender nuevas cosas para emplearla a futuro con mi estudios.he desempeñado en la cosas que he aprendido.soy alguien que intenta ayudar al que no tienen y soy una persona que cada día a día quiere aprender nuevas cosas para mí futuro.
+Mi nombre es Jeferson Ducuara soy una persona callada, pero con muy buenos valores, con una capacidad excelente para aprender de manera rapida y tomar accion inmediata en dicha cosa he temido varios trabajo en lo que he tenido la oportunidad de hacer distinta cosas, tengo muchos sueños, aspiraciones pero en especifico me apaciona aprender, obtener nuevos conocimientos y con ello emplerlo en un futuro poderme desempeñar de manera perfercta en dicha labor de aprender.soy alguien que intenta ayudar al que no tienen y soy una persona que cada día a día quiere aprender nuevas cosas para mí futuro.
 
 ## 💼 EXPERIENCIA LABORAL 
 • Construcción de obra
@@ -35,7 +35,7 @@ servicio nacional de aprendizaje SENA - 2021-2022
 
 📱WhatsApp : 3219727053
 
-## 👥  compañeros de trabajo 
+## 👥  COMPAÑEROS DE TRABAJO
 
 
 |                |Hombres                       |   usuario hithub                     |
