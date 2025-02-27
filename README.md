@@ -3,9 +3,9 @@
 
 
 
-##  DISEÑO GRÁFICO (PRIMER SEMESTRE )
+##  📌  DISEÑO GRÁFICO (PRIMER SEMESTRE )
 
-##  REDES SOCIALES 
+## 🌐 REDES SOCIALES DE TRABAJO
 
       NO
 
@@ -43,8 +43,8 @@ servicio nacional de aprendizaje SENA - 2021-2022
 |        ||
 
 
-##  ENSAYO 
-   EL CRECIMIENTO DEL DEPORTE EN         COLOMBIA
+##   📝  ENSAYO 
+  ### EL CRECIMIENTO DEL DEPORTE EN                     COLOMBIA
    
 El deporte en Colombia ha experimentado un crecimiento multifacético en los últimos años,
 impulsado por una combinación de inversión, talento y pasión nacional. Más allá del
