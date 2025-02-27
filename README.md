@@ -38,8 +38,8 @@ servicio nacional de aprendizaje SENA - 2021-2022
 
 |                |Hombres                       |   usuario hithub                     |
 |----------------|-------------------------------|-----------------------------|
-||  Nicolas Acuña Rubio        |'Isn't this fun?'            |
-|         |  jordi gallego Lugo          |"Isn'----------------t this fun?"            |
+||  Nicolas Acuña Rubio        |https://github.com/cunnicolasacuna            |
+|         |  jordi gallego Lugo          |https://github.com/Jordigallego/Jordigallego/blob/main/README.md+          |
 |        ||
 
 
